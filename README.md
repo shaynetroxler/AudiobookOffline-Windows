@@ -23,12 +23,19 @@ Early port from the Linux (GTK) version — core flow (login, browse, stream, do
 - Progress reported back to the server as you listen, reconciled on resume so progress made on another device is picked up correctly
 - Cover art throughout
 
-## Requirements
+## Download
+
+Don't want to deal with Python? Grab the latest `AudiobookOffline.exe` from the
+[Releases page](https://github.com/shaynetroxler/AudiobookOffline-Windows/releases) —
+download it, double-click it, done. No install, no dependencies.
+
+Windows will likely warn that the exe is from an unrecognized publisher (it's
+not code-signed) — click "More info" → "Run anyway" to proceed.
+
+## Running from source
 
 - Python 3.11+
 - An Audiobookshelf server you can reach (local network or otherwise)
-
-## Running
 
 ```
 pip install -r requirements.txt
