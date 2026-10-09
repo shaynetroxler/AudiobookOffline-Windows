@@ -92,7 +92,7 @@ _ABOUT_TEXT = (
     "<a href=\"https://github.com/advplyr/audiobookshelf\">Audiobookshelf</a>, "
     "built for offline listening. Also available for "
     "<a href=\"https://github.com/shaynetroxler/AudiobookOffline\">macOS</a> and "
-    "<a href=\"https://github.com/shaynetroxler/audiobookshelf-linux\">Linux</a>.</p>"
+    "<a href=\"https://github.com/shaynetroxler/AudiobookOffline-Linux\">Linux</a>.</p>"
     "<p>Released under the MIT License.</p>"
 )
 

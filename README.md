@@ -2,7 +2,7 @@
 
 A native PySide6 (Qt) desktop client for [Audiobookshelf](https://github.com/advplyr/audiobookshelf) — browse your library, stream, download books for true offline playback, and keep listening progress synced back to your server.
 
-A Windows counterpart to the [macOS AudiobookOffline app](https://github.com/shaynetroxler/AudiobookOffline) and the [Linux AudiobookOffline app](https://github.com/shaynetroxler/audiobookshelf-linux), built for the same reason: none of the existing Audiobookshelf clients do local pre-download for offline use.
+A Windows counterpart to the [macOS AudiobookOffline app](https://github.com/shaynetroxler/AudiobookOffline) and the [Linux AudiobookOffline app](https://github.com/shaynetroxler/AudiobookOffline-Linux), built for the same reason: none of the existing Audiobookshelf clients do local pre-download for offline use.
 
 ## Status
 
