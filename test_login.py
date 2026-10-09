@@ -4,7 +4,7 @@ import sys
 sys.path.insert(0, ".")
 from absplayer.client import ABSClient
 
-server = input("Server URL [http://192.168.1.136:8092]: ") or "http://192.168.1.136:8092"
+server = input("Server URL [http://192.168.1.10:13378]: ") or "http://192.168.1.10:13378"
 username = input("Username: ")
 password = getpass.getpass("Password: ")
 

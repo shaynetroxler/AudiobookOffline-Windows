@@ -40,7 +40,7 @@ _HELP_HTML = """
 <h2>Audiobook Offline — Help</h2>
 
 <h3>Logging in</h3>
-<p>Enter your Audiobookshelf server's URL (e.g. <code>http://192.168.1.136:8092</code>),
+<p>Enter your Audiobookshelf server's URL (e.g. <code>http://192.168.1.10:13378</code>),
 your username, and password. Your credentials are saved to Windows Credential
 Manager, so you won't need to log in again on this PC.</p>
 
@@ -153,7 +153,7 @@ class LoginPage(QWidget):
         layout.setContentsMargins(48, 48, 48, 48)
         layout.setSpacing(12)
 
-        self.server_entry = QLineEdit(placeholderText="Server URL, e.g. http://192.168.1.136:8092")
+        self.server_entry = QLineEdit(placeholderText="Server URL, e.g. http://192.168.1.10:13378")
         self.username_entry = QLineEdit(placeholderText="Username")
         self.password_entry = QLineEdit(placeholderText="Password")
         self.password_entry.setEchoMode(QLineEdit.EchoMode.Password)
